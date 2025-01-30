@@ -1,0 +1,212 @@
+*{
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color:mintcream;
+}
+    h1{
+    text-align:center;
+    text-transform: capitalize;
+    margin-top: 30px;
+ }
+.box{
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    padding-top: 90px;
+    border-radius:10px;
+    display: inline-block;
+    /* display: flex; */
+    margin: 50px;
+    transition:1s;
+    
+}
+#span{
+    border:3px solid black;
+padding: 15px;
+box-shadow: -2px -2px 12px 10px pink inset,2px 2px 7px 3px pink inset, 2px 2px 7px 3px black ;
+
+}
+.text{
+    display: block;
+    position: sticky;
+    /* display: flex; */
+}
+#a,#i,#p,#t{
+    background-color:beige;
+box-shadow: 5px 2px 5px 3px black,-5px -2px 5px 3px black;
+
+}
+#a1,#n,#e{
+    background-color: rgba(210, 210, 253);
+box-shadow: 5px 2px 5px 3px black,-5px -2px 5px 3px black;
+
+    
+}
+#c,#r,#h{
+    background-color:
+rgba(209, 251, 251);
+box-shadow: 5px 2px 5px 3px black,-5px -2px 5px 3px black;
+}
+#b,#g,#l{
+    background-color:plum;
+box-shadow: 5px 2px 5px 3px black,-5px -2px 5px 3px black;
+
+}
+#d,#f,#m,#s{
+    background-color: lightskyblue;
+box-shadow: 5px 2px 5px 3px black,-5px -2px 5px 3px black;
+
+}
+#j,#q,#o{
+    background-color:lightpink;
+box-shadow: 5px 2px 5px 3px black,-5px -2px 5px 3px black;
+
+
+}
+
+.box:hover{
+    transform: scale(1.1);
+}
+#a1:hover{
+    font-family:"Kanit", serif;
+    font-size: 20px;
+    background-color: aqua;
+}
+#a:hover{
+    font-family: "Kanit", serif;
+    font-size: 20px;
+    background-color: yellow;
+
+
+}
+
+#b:hover{
+    font-family:"Josefin Slab", serif;
+    font-size: 20px;
+    background-color: orange;
+
+}
+#c:hover{
+    font-family:"Danfo", serif;
+    font-size: 20px;
+    background-color: blueviolet;
+
+
+}
+#d:hover{
+    font-family:"Great Vibes", serif;
+    font-size: 20px;
+    background-color: purple;
+
+
+}
+#e:hover{
+    font-family: "Playball", serif;
+    font-size: 20px;
+    background-color:hotpink;
+
+
+}
+#f:hover{
+    font-family:"Lobster", serif;
+    font-size: 2px;
+    background-color: aqua;
+
+
+}
+#g:hover{
+    font-family:"Rowdies", serif;
+    font-size: 20px;
+    background-color:rgba(210, 210, 253);
+
+
+}
+#h:hover{
+    font-family:"Pacifico", serif;
+    font-size: 20px;
+    background-color:chartreuse;
+
+
+}
+#i:hover{
+    font-family:"Micro 5", serif;
+    font-size: 20px;
+    background-color:orangered;
+
+
+}
+#j:hover{
+    font-family:"Jacquard 12", serif;
+    background-color:yellowgreen;
+    font-size: 20px;
+
+}
+#l:hover{
+    font-family: "Shadows Into Light", serif;
+    font-size: 20px;
+    background-color: pink;
+
+
+}
+#m:hover{
+    font-family:"Tiny5", serif;
+    font-size: 20px;
+    background-color: aqua;
+
+
+}
+#n:hover{
+    font-family:"Permanent Marker", serif;
+    font-size: 20px;
+    background-color:darkcyan;
+
+
+}
+#o:hover{
+    font-family: "Abril Fatface", serif;
+    font-size: 20px;
+    background-color:firebrick;
+
+}
+#p:hover{
+    font-family: "DM Serif Text", serif;
+    font-size: 20px;
+    background-color:green;
+
+
+}
+#q:hover{
+    font-family: "Playwrite PE", serif;
+    font-size: 20px;
+    background-color:red;
+
+
+}
+#r:hover{
+    font-family: "Jersey 10 Charted", serif;
+    font-size: 20px;
+    background-color:tomato;
+
+
+}
+#s:hover{
+    font-family:"Babylonica", serif;
+    font-size: 20px;
+    background-color: aqua;
+
+
+}
+#t:hover{
+    font-family:"Italianno", serif;
+    font-size: 20px;
+    background-color:midnightblue;
+
+
+}
+
+
+
+
